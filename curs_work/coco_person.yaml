@@ -1,0 +1,7 @@
+train: C:\Anna\Workspace\ai\curs_work\datasets\fiftyone\coco-2017\train
+val: C:\Anna\Workspace\ai\curs_work\datasets\fiftyone\coco-2017\validation
+test: C:\Anna\Workspace\ai\curs_work\datasets\fiftyone\coco-2017\test
+nc: 1
+names:
+  - person
+  
